@@ -5,8 +5,8 @@
         <div class="row">
           <div class="col-sm-12">
             <div class="heading-title">
-              <h3 class="title iq-tw-7">Atendimento Contratual</h3>
-              <p>Sofbox is a sleek, clean and powerful landing page template</p>
+              <h3 class="title iq-tw-9">Atendimento Contratual</h3>
+              <p>Atendemos diversos segmentos empresariais com soluções para os mais variados sistemas utilizados diariamente</p>
             </div>
           </div>
         </div>
